@@ -1,3 +1,2 @@
-FROM php:7.1-apache-stretch
-COPY /src /var/www/html
+FROM php:7.2.8-apache-stretch
 
