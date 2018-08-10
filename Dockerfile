@@ -1,3 +1,3 @@
-FROM php:7.0-apache
-COPY . /var/www/html/
-
+FROM emeriochennai/php7.2.8-composer:dev
+COPY . /app
+COPY ./content /tmp
