@@ -3,10 +3,9 @@
   <title>Docker CI/CD Testing</title>
  </head>
  <body>
- <?php
-//Gets the IP address
-$ip = getenv("REMOTE_ADDR") ;
-echo "Your IP is " . $ip;
-?>
+ <?php echo '<p>This is my PHP demo</p>';
+ $ipaddress = $_SERVER['SERVER_ADDR'];
+ $_SERVER;
+ echo $ipaddress;
+ ?>
  </body>
-</html>
