@@ -4,7 +4,8 @@
  </head>
  <body>
  <?php echo '<p>This is my PHP demo</p>'; 
- $_SERVER['REMOTE_ADDR'];
+ $ipadress=$_SERVER['REMOTE_ADDR'];
+  echo $ipaddress;
  ?>
  </body>
 </html>
