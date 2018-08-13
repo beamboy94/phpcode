@@ -10,7 +10,7 @@
           <img src="images/springsource.png">
         </td>
         <td>
-          <h1> Initial Workshop </h1>
+          <h1> Initial Workshop Success </h1>
         </td>
       </tr>
     </table>
