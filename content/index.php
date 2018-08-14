@@ -4,7 +4,7 @@
   </head>
   <body bgcolor=white>
 
-    <table border="0" cellpadding="10">
+    <table border="100" cellpadding="150">
       <tr>
         <td>
           <h1 align="center"> Initial Workshop Success </h1>
