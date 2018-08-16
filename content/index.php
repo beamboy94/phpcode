@@ -7,7 +7,7 @@
     <table border="100" cellpadding="150">
       <tr>
         <td>
-          <h1 align="center"> Initial Workshop </h1>
+          <h1 align="center"> Initial Workshop success</h1>
         </td>
       </tr>
     </table>
